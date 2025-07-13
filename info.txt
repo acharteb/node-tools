@@ -1,0 +1,3 @@
+Nombre: Ana García
+Edad: 16
+Estatus: Menor de edad
